@@ -21,7 +21,8 @@ Legend: ✅ Done · ⏳ In progress · ❌ Pending
 
 ## 📂 Suggested Folder Structure
 
-📂 Books/Jumping_into_Cpp/
+```text
+Books/Jumping_into_Cpp/
  ├── ch01_intro_env/
  ├── ch02_basics/
  ├── ch03_user_interaction_variables/
@@ -33,7 +34,8 @@ Legend: ✅ Done · ⏳ In progress · ❌ Pending
  ├── ch09_problem_solving/
  └── README.md
 
-Always show details
+</details>
+```
 
 
 > Inside each chapter, I use:
@@ -45,11 +47,12 @@ Always show details
 
 Example chapter layout:
 
+```text
 ch05_loops/
 ├── examples/
 ├── exercises/
-
-Always show details
+</details>
+```
 
 ---
 
