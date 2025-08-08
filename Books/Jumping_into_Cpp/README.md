@@ -1,13 +1,4 @@
 # 📘 Jumping into C++ – Progress Tracker
-
-This folder tracks my work based on the edition structured like the screenshot:
-- **Part 1: Jumping into C++**
-- **Part 2: Working with Data**
-- **Part 3: Writing Larger Programs**
-- **Part 4: Miscellaneous Topics**
-
-I will implement **examples**, **exercises**, and **mini‑projects** chapter by chapter, adding brief notes when needed.
-
 ---
 
 ## ✅ Part 1: Jumping into C++ – Progress
