@@ -5,10 +5,10 @@
 
 | Chapter | Title                                               | Status |
 |--------:|-----------------------------------------------------|:------:|
-| 1 | Introduction and Developer Environment Setup              | ❌ |
-| 2 | The Basics of C++                                         | ❌ |
-| 3 | User Interaction and Working with Variables               | ❌ |
-| 4 | If Statements                                             | ❌ |
+| 1 | Introduction and Developer Environment Setup              | ✅ |
+| 2 | The Basics of C++                                         | ✅ |
+| 3 | User Interaction and Working with Variables               | ✅ |
+| 4 | If Statements                                             | ⏳ |
 | 5 | Loops                                                     | ❌ |
 | 6 | Functions                                                 | ❌ |
 | 7 | Switch Case and Enums                                     | ❌ |
@@ -33,8 +33,6 @@ Books/Jumping_into_Cpp/
  ├── ch08_randomization/
  ├── ch09_problem_solving/
  └── README.md
-
-</details>
 ```
 
 
@@ -51,7 +49,6 @@ Example chapter layout:
 ch05_loops/
 ├── examples/
 ├── exercises/
-</details>
 ```
 
 ---
