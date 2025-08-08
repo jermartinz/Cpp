@@ -21,17 +21,17 @@ Legend: ✅ Done · ⏳ In progress · ❌ Pending
 
 ## 📂 Suggested Folder Structure
 
-Books/Jumping_into_Cpp/
-├── ch01_intro_env/
-├── ch02_basics/
-├── ch03_user_interaction_variables/
-├── ch04_if_statements/
-├── ch05_loops/
-├── ch06_functions/
-├── ch07_switch_enums/
-├── ch08_randomization/
-├── ch09_problem_solving/
-└── README.md # this file
+📂 Books/Jumping_into_Cpp/
+ ├── ch01_intro_env/
+ ├── ch02_basics/
+ ├── ch03_user_interaction_variables/
+ ├── ch04_if_statements/
+ ├── ch05_loops/
+ ├── ch06_functions/
+ ├── ch07_switch_enums/
+ ├── ch08_randomization/
+ ├── ch09_problem_solving/
+ └── README.md
 
 Always show details
 
@@ -40,7 +40,7 @@ Always show details
 >
 > - `examples/` – code written while reading
 > - `exercises/` – solutions to end‑of‑chapter problems
-> - `notes.md` – short takeaways and pitfalls
+> - *(optional)* `notes.md` – short takeaways and pitfalls
 > - *(optional)* `project/` – a small application applying the chapter
 
 Example chapter layout:
