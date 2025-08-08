@@ -16,16 +16,7 @@ It contains exercises, mini-projects, and examples that cover:
 
 The goal is to build a **solid foundation** for creating high-performance applications and understanding both low-level and high-level concepts of the language.
 
----
-
-## 📂 Structure
-
-📁 exercises/ # Practice problems by topic
-📁 projects/ # Mini-projects applying concepts
-📁 notes/ # Learning notes and summaries
-
-
----
+--- 
 
 ## 🛠 Tools & Environment
 - **Compiler:** g++
