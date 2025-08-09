@@ -1,0 +1,61 @@
+# ===================================
+# Gitignore for C++ projects
+# ===================================
+
+# Binary files and executables
+*.exe
+*.out
+*.app
+*.bin
+*.elf
+
+# Compiled object files
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+*.dylib
+
+# Debug files
+*.pdb
+*.idb
+*.dSYM/
+
+# Precompiled headers
+*.gch
+*.pch
+
+# Dependency files
+*.d
+
+# Build folders
+build/
+Build/
+cmake-build*/
+
+# Temporary system files
+*.tmp
+*.log
+*.swp
+*~
+
+# Ignore executables generated in exercises and projects
+Books/Jumping_into_Cpp/**/exercises/*
+Books/Jumping_into_Cpp/**/project/*
+!Books/Jumping_into_Cpp/**/*.cpp
+!Books/Jumping_into_Cpp/**/*.h
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.code-workspace
+
+# CMake cache files
+CMakeCache.txt
+CMakeFiles/
+
+# Local user settings
+*.user
+
